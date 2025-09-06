@@ -1,34 +1,13 @@
-15:22:54.240 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount link
-15:22:55.565 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register link
-15:22:55.651 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:29)oggger - Providing User details..............
-15:22:57.787 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:43)oggger - Validating expected message
-15:22:57.894 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:65)oggger - *****Finished TC001_AccountRegistrationTest ***********
-15:23:07.862 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:16)oggger - ******Starting TC002_VerifyLogin*******
-15:23:08.576 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:21)oggger - User is on Login Page
-15:23:09.987 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:42)oggger - ******Finished TC002_VerifyLogin*******
-15:25:23.181 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\HybridTestingFramework\testng.xml"
-15:25:23.565 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\LENOVO\eclipse-workspace\HybridTestingFramework\testng.xml
-
-15:25:31.830 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:18)oggger - *****Starting TC001_AccountRegistrationTest***********
-15:25:31.997 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount link
-15:25:32.690 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register link
-15:25:32.699 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:29)oggger - Providing User details..............
-15:25:35.189 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:43)oggger - Validating expected message
-15:25:35.247 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:65)oggger - *****Finished TC001_AccountRegistrationTest ***********
-15:25:46.405 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:16)oggger - ******Starting TC002_VerifyLogin*******
-15:25:47.162 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:21)oggger - User is on Login Page
-15:25:48.762 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:42)oggger - ******Finished TC002_VerifyLogin*******
-15:28:11.529 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\HybridTestingFramework\testng.xml"
-15:28:11.907 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\LENOVO\eclipse-workspace\HybridTestingFramework\testng.xml
-
-15:28:26.175 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:18)oggger - *****Starting TC001_AccountRegistrationTest***********
-15:28:26.367 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount link
-15:28:27.203 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register link
-15:28:27.212 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:29)oggger - Providing User details..............
-15:28:30.298 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:43)oggger - Validating expected message
-15:28:30.413 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:65)oggger - *****Finished TC001_AccountRegistrationTest ***********
-15:28:35.257 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:16)oggger - ******Starting TC002_VerifyLogin*******
-15:28:37.835 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:21)oggger - User is on Login Page
-15:28:39.103 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:42)oggger - ******Finished TC002_VerifyLogin*******
+15:44:06.790 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:16)oggger - ******Starting TC002_VerifyLogin*******
+15:44:07.208 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:21)oggger - User is on Login Page
+15:44:08.121 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:42)oggger - ******Finished TC002_VerifyLogin*******
+15:47:11.172 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\HybridTestingFramework\testng.xml"
+15:47:17.026 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:18)oggger - *****Starting TC001_AccountRegistrationTest***********
+15:47:20.774 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:23)oggger - Clicked on MyAccount link
+15:47:21.857 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:25)oggger - Clicked on Register link
+15:47:21.860 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:29)oggger - Providing User details..............
+15:47:23.272 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:43)oggger - Validating expected message
+15:47:23.309 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_Account_Registration(TC001_AccountRegistrationTest.java:65)oggger - *****Finished TC001_AccountRegistrationTest ***********
+15:47:27.965 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:16)oggger - ******Starting TC002_VerifyLogin*******
+15:47:29.057 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:21)oggger - User is on Login Page
+15:47:30.551 [main] INFO  testCases.TC002_VerifyLogin.Verify_Login(TC002_VerifyLogin.java:42)oggger - ******Finished TC002_VerifyLogin*******
